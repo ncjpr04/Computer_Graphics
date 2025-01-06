@@ -1,0 +1,21 @@
+# Ignore build directory
+/Home/build/
+
+# Ignore object files
+*.o
+
+# Ignore executable files
+*.exe
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore backup files
+*~
+*.bak
