@@ -16,6 +16,5 @@
 *.sublime-workspace
 *.sublime-project
 
-# Ignore backup files
 *~
 *.bak
